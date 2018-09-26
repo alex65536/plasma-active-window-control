@@ -1,5 +1,5 @@
 Source: plasma-active-window-control
-Section: unknown
+Section: kde
 Priority: optional
 Maintainer: Alexander Kernozhitsky <sh200105@mail.ru>
 Build-Depends: debhelper (>= 11), extra-cmake-modules (>= 5.26.0), qtbase5-dev (>= 5.6.0), qtdeclarative5-dev (>= 5.6.0), libkf5windowsystem-dev (>= 5.26.0), libkf5plasma-dev (>= 5.26.0), libqt5x11extras5-dev (>= 5.6.0)
