@@ -1,3 +1,9 @@
+plasma-active-window-control (1.7.4+git20180729-2) unstable; urgency=medium
+
+  * Add vala-panel-appmenu-common and appmenu-registrar to Recommends
+
+ -- Alexander Kernozhitsky <sh200105@mail.ru>  Wed, 26 Sep 2018 23:17:42 +0300
+
 plasma-active-window-control (1.7.4+git20180729-1) unstable; urgency=medium
 
   * Change version to 1.7.4+git20180729-1
